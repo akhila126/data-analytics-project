@@ -27,6 +27,31 @@ Analyze 10,000 synthetic retail order records to understand revenue, profitabili
 ## Visuals included in Python script
 Monthly revenue line chart; category revenue and profit bar charts; state revenue bar chart; channel revenue pie chart; discount-versus-profit scatter plot; return-rate bar chart; age distribution histogram.
 
+## Project Visualizations
+
+### 1. Customer Age Distribution
+![Customer Age Distribution](screenshots/Customer%20age%20distribution.png)
+
+### 2. Discount vs Profit
+![Discount vs Profit](screenshots/Discount%20vs%20profit.png)
+
+### 3. Monthly Sales
+![Monthly Sales](screenshots/Monthly%20sales.png)
+
+### 4. Profit by Category
+![Profit by Category](screenshots/Profit%20by%20category.png)
+
+### 5. Rate by Category
+![Rate by Category](screenshots/Rate%20by%20category.png)
+
+### 6. Revenue by Product
+![Reveenue by Product](screenshots/Reveenue%20by%20product.png)
+
+### 7. Sales by State
+![Sales by State](screenshots/Sales%20by%20state.png)
+
+### 8. Sales Channel
+![Sales Channel](screenshots/Sales%20channel.png)
 
 ## Run the project
 ```bash
